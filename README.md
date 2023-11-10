@@ -17,4 +17,4 @@ Let's connect and share ideas! You can find me on:
 
 Feel free to explore my repositories, contribute, and let's learn and grow together! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Estherjokodola &color=green
+![Profile Views](https://komarev.com/ghpvc/?username=Estherjokodola &color=green)
