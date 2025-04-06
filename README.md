@@ -9,11 +9,10 @@
 
 ### **About Me**
 
-- ** Computer Science Graduate** from Koladaisi University
+- **Computer Science Graduate** from Koladaisi University
 - Founder of **Pop&Chop**, a growing pastries & sourdough bakery business
 - Deeply passionate about **AI research**, **machine learning**, **mental health tech**, and **robotics**
 - On a mission to **make impactful contributions** to the world through technology
-- Currently applying to **fully funded master’s programs** abroad and **machine learning internships**
 
 ---
 
