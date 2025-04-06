@@ -9,8 +9,7 @@
 
 ### **About Me**
 
-- **First-class Computer Science Graduate** from Koladaisi University
-- Currently pursuing a **Master’s in Artificial Intelligence** at the University of Ibadan
+- ** Computer Science Graduate** from Koladaisi University
 - Founder of **Pop&Chop**, a growing pastries & sourdough bakery business
 - Deeply passionate about **AI research**, **machine learning**, **mental health tech**, and **robotics**
 - On a mission to **make impactful contributions** to the world through technology
