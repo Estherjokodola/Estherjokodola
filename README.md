@@ -1,59 +1,64 @@
-<h1 align="center">Hi, I'm Esther 👋</h1>
+<h1 align="center">🌸 Hi, I’m Esther</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=50B9E0&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Researcher+%7C+Data+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=MSc+AI+Student+%7C+ML+Engineer;Skin+Disease+%26+Cancer+Researcher;AI+For+Good+Advocate;Building+Cool+%26+Useful+Things" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👩🏽‍💻 About Me
-- **Computer Science Graduate** from Koladaisi University  
-- Founder of **Pop&Chop** — a growing pastries & sourdough bakery  
-- Passionate about **AI research**, **machine learning**, and **tech for good**  
-- Exploring ways to use **AI** to empower communities and improve mental health  
+### 🌷 About Me
+- 🎓 Currently pursuing my **Master’s in Artificial Intelligence**  
+- 🧪 Researching **prediction of skin disease & cancer detection**  
+- 💻 Passionate about **ML, deep learning, and health-tech innovations**  
+- ☕ Also the founder of **Pop&Chop** — where code meets sourdough 🤎  
 
 ---
 
-### 🔧 Tech & Tools
+### 💡 Tech Stack  
 
-#### Languages  
-![Python](https://img.shields.io/badge/Python-1e2a38?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1e2a38?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e2a38?style=for-the-badge&logo=javascript&logoColor=white)
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFC0CB?style=for-the-badge&logo=postgresql&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### ML & Data
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-395267?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-395267?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-395267?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-395267?style=for-the-badge&logo=matplotlib&logoColor=white)
+#### **ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-FD6C9E?style=for-the-badge&logo=pytorch&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FD6C9E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FD6C9E?style=for-the-badge&logo=pandas&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FD6C9E?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-#### Tools  
-![Jupyter](https://img.shields.io/badge/Jupyter-2b3a42?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2b3a42?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-2b3a42?style=for-the-badge&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2b3a42?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🤝 Collaboration
-- Open to **AI/ML research**, **open-source contributions**, and **impact-driven projects**
-- Always happy to connect with other builders, researchers, and innovators
+#### **Tools**
+![Google Colab](https://img.shields.io/badge/Google%20Colab-FAB1CE?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FAB1CE?style=for-the-badge&logo=jupyter&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-FAB1CE?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FAB1CE?style=for-the-badge&logo=git&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-FAB1CE?style=for-the-badge&logo=anaconda&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats  
-
-![Esther's GitHub Stats](https://github-readme-stats.vercel.app/api?username=estherjokodola&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estherjokodola&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Find Me Online  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esther_Jokodola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estherjokodola)
-[![Medium](https://img.shields.io/badge/Medium-@estherjokodola-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@estherjokodola)
-[![Twitter](https://img.shields.io/badge/Twitter-@estherjokodola-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/estherjokodola)
+### 🎀 What I’m Working On  
+| 💻 Project | 🔬 Focus | 🛠️ Tools |
+|-----------|----------|---------|
+| 🩺 **Skin Disease Detection** | CV models for rash & measles classification | PyTorch, Google Colab |
+| 🌳 **Heart Disease Prediction** | Random Forests + feature engineering | Scikit-Learn, Pandas |
+| 📚 **Master’s Research** | Transfer learning, CNNs, healthcare AI | PyTorch, PostgreSQL |
 
 ---
 
-> _“Keep learning, keep building.”_
+### 📊 GitHub Glow  
+
+![Esther's GitHub Stats](https://github-readme-stats.vercel.app/api?username=estherjokodola&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estherjokodola&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🌸 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esther_Jokodola-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estherjokodola)
+[![Medium](https://img.shields.io/badge/Medium-@estherjokodola-FF69B4?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@estherjokodola)
+[![Twitter](https://img.shields.io/badge/Twitter-@estherjokodola-FF69B4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/estherjokodola)
+
+---
+
+> _“Smart tech, soft heart — building with purpose and a little bit of style 💕”_
