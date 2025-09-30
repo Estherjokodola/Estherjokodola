@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I’m Esther</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=MSc+AI+Student+%7C+ML+Engineer;Skin+Disease+%26+Cancer+Researcher;AI+For+Good+Advocate;Building+Cool+%26+Useful+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=MSc+AI+%7C+AI/ML+Engineer" alt="Typing Animation" />
 </p>
 
 ---
