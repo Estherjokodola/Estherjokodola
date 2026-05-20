@@ -14,8 +14,8 @@ I am a researcher and developer focused on applying deep learning to solve compl
 *   **Data & DevOps:** Power BI, Docker
 
 ### 📫 Connect with Me
-*   [LinkedIn](YOUR_LINKEDIN_URL)
-*   [Portfolio/Website](YOUR_WEBSITE_URL)
+*   [LinkedIn]([https://www.linkedin.com/in/esther-jokodola/)
+*   [Portfolio/Website](https://estherjokodolaa.netlify.app)
 *   Email: estherjokodola21@gmail.com
 
 
